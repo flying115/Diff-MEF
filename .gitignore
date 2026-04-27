@@ -1,0 +1,26 @@
+data
+output
+output_mask
+output_mask_inference
+# Large model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npy
+*.npz
+
+# Model/checkpoint folders
+ckpt/
+checkpoints/
+fastsam/weights/
+
+# Data/result/cache folders
+data/
+dataset/
+datasets/
+results/
+outputs/
+picture/
+__pycache__/
+*.pyc
