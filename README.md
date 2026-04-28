@@ -59,3 +59,19 @@ The code was tested with the following main environment:
 Python        3.9.20  PyTorch       1.13.0  TorchVision   0.14.0  TorchAudio    0.13.0
 More detailed package versions are listed in environment.txt
 ---
+
+## Citation
+
+If you find this work useful for your research, please cite our paper:
+
+```bibtex
+@article{xu2026diff,
+  title={Diff-MEF: Cross-Modal Diffusion Framework With Text Prompts and Semantic Perception for Multi-Exposure Image Fusion},
+  author={Xu, Han and Huang, Yunfei and Tang, Linfeng and Ma, Jiayi and Liu, Guangcan},
+  journal={IEEE Transactions on Image Processing},
+  volume={35},
+  pages={3186--3201},
+  year={2026},
+  publisher={IEEE},
+  doi={10.1109/TIP.2026.3674682}
+}
