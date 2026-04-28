@@ -30,17 +30,14 @@ The current repository supports quick testing with pretrained checkpoints.
 ### Results on MEFB
 
 <p align="center">
-  <img src="results/MEFB/3.png" width="30%">
-  <img src="results/MEFB/4.png" width="30%">
-  <img src="results/MEFB/6.png" width="30%">
+  <img src="results/MEFB/3.png" width="260" height="180"">
+  <img src="results/MEFB/4.png" width="260" height="180">
+  <img src="results/MEFB/6.png" width="260" height="180">
 </p>
 ### Results on SICE
 <p align="center">
   <img src="results/SICE/1.png" width="30%">
   <img src="results/SICE/2.png" width="30%">
-  <img src="results/SICE/4.png" width="30%">
-  <img src="results/SICE/5.png" width="30%">
-  <img src="results/SICE/6.png" width="30%">
   <img src="results/SICE/7.png" width="30%">
 </p>
 
