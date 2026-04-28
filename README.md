@@ -7,9 +7,9 @@
 
 ## News
 
-- The inference code and environment configuration have been released.
-- Pretrained checkpoints are provided with Git LFS.
-- More training details and benchmark results will be updated later.
+- [x] The inference code and environment configuration have been released.
+- [x] Pretrained checkpoints are provided with Git LFS.
+- [ ] More training details and benchmark results will be updated later.
 
 ---
 
