@@ -40,6 +40,10 @@ Diff-MEF/
 │           ├── ue/             # Under-exposed images
 │           ├── oe/             # Over-exposed images
 │           └── SICE_text.txt   # Text prompts
+│       └── MEFB/
+│           ├── ue/             # Under-exposed images
+│           ├── oe/             # Over-exposed images
+│           └── MEFB_text.txt   # Text prompts
 ├── results/                    # Inference results
 ├── environment.txt             # Environment package versions
 ├── test.py                     # Inference script
