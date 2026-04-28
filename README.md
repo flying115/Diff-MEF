@@ -53,6 +53,7 @@ Diff-MEF/
 └── README.md
 
 ---
+
 ## Environment
 The code was tested with the following main environment:
 ```text
@@ -61,9 +62,7 @@ More detailed package versions are listed in environment.txt
 ---
 
 ## Citation
-
 If you find this work useful for your research, please cite our paper:
-
 ```bibtex
 @article{xu2026diff,
   title={Diff-MEF: Cross-Modal Diffusion Framework With Text Prompts and Semantic Perception for Multi-Exposure Image Fusion},
