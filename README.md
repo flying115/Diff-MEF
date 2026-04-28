@@ -49,3 +49,17 @@ Diff-MEF/
 ├── test.py                     # Inference script
 ├── utils.py
 └── README.md
+
+---
+## Environment
+The code was tested with the following main environment:
+```text
+Python        3.9.20
+PyTorch       1.13.0
+TorchVision   0.14.0
+TorchAudio    0.13.0
+CUDA Runtime  11.7
+NumPy         1.24.4
+OpenCV        4.10.0.84
+More detailed package versions are listed in environment.txt
+---
