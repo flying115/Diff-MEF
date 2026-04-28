@@ -1,5 +1,5 @@
 # Diff-MEF
-**Diff-MEF: Cross-Modal Diffusion Framework With Text Prompts and Semantic Perception for Multi-Exposure Image Fusion（TIP2026）**
+**Diff-MEF: Cross-Modal Diffusion Framework With Text Prompts and Semantic Perception for Multi-Exposure Image Fusion（TIP 2026）**
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20TIP-blue)](https://doi.org/10.1109/TIP.2026.3674682)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTIP.2026.3674682-red)](https://doi.org/10.1109/TIP.2026.3674682)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/flying115/Diff-MEF)
