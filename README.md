@@ -73,13 +73,34 @@ Diff-MEF/
 ```
 ---
 
-## Environment
+## Environment and Inference
 The code was tested with the following main environment:
 ```text
 Python        3.9.20  PyTorch       1.13.0  TorchVision   0.14.0  TorchAudio    0.13.0
 ```
 More detailed package versions are listed in environment.txt
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/flying115/Diff-MEF.git
+cd Diff-MEF
+```
+### 2. Create the conda environment
+```bash
+conda create -n diff-mef python=3.9 -y
+conda activate diff-mef
+```
+### 3. Install dependencies
+Install PyTorch first:
+```bash
+pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0
+pip install -r environment.txt
+```
+### 4. Run inference
+The pretrained checkpoints and test data have been uploaded to this repository.  
+```
+python test.py
+```
 ---
 
 ## Citation
