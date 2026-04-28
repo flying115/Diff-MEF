@@ -60,6 +60,7 @@ The code was tested with the following main environment:
 ```text
 Python        3.9.20  PyTorch       1.13.0  TorchVision   0.14.0  TorchAudio    0.13.0
 More detailed package versions are listed in environment.txt
+```
 ---
 
 ## Citation
@@ -75,3 +76,4 @@ If you find this work useful for your research, please cite our paper:
   publisher={IEEE},
   doi={10.1109/TIP.2026.3674682}
 }
+```
